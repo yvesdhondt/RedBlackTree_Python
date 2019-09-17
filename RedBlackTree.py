@@ -1,6 +1,6 @@
 ### General Information ###
 # To use this red black tree implementation you need to use a class that has implemented all the methods
-# to compare two items from that class. (__lt__, __eq__, etc.)
+# to compare two items from that class as a key. (__lt__, __eq__, etc.)
 ### General Information ###
 
 
